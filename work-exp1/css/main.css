@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+.console-window {
+  max-width: 100%;
+  width: 320px;
+  min-height: 300px;
+  float: left;
+  background-color: #ddd;
+  margin: 20px;
+}
